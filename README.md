@@ -5,4 +5,4 @@ Link of Pass page <https://44-563-web-apps-s21.github.io/webapps-s21-assignment-
 
 Link of Arithmetic Page <https://44-563-web-apps-s21.github.io/webapps-s21-assignment-6-ManikantaProdduturi/arithmetic.html>
 
-Link of Car Page <https://44-563-web-apps-s21.github.io/webapps-s21-assignment-6-ManikantaProdduturi/car>
+Link of Car Page <https://44-563-web-apps-s21.github.io/webapps-s21-assignment-6-ManikantaProdduturi/car.html>
