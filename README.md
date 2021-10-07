@@ -1,3 +1,8 @@
 # WebApps-S21-Assignment-6
 Assignment introduction Java Script and DOM
-Link of Pass.html page <https://44-563-web-apps-s21.github.io/webapps-s21-assignment-6-ManikantaProdduturi/pass.html>
+
+Link of Pass page <https://44-563-web-apps-s21.github.io/webapps-s21-assignment-6-ManikantaProdduturi/pass.html>
+
+Link of Arithmetic Page <https://44-563-web-apps-s21.github.io/webapps-s21-assignment-6-ManikantaProdduturi/arithmetic>
+
+Link of Car Page <https://44-563-web-apps-s21.github.io/webapps-s21-assignment-6-ManikantaProdduturi/car>
